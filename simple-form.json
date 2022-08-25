@@ -1,0 +1,467 @@
+{
+  "items": [
+    {
+      "type": "grid",
+      "outline": true,
+      "items": [
+        {
+          "type": "row",
+          "items": [],
+          "id": "046899768858754697853049529267306",
+          "codeContext": {
+            "name": "row-046899768858754697853049529267306"
+          }
+        },
+        {
+          "type": "row",
+          "items": [],
+          "id": "62938513022393334246723519118105",
+          "codeContext": {
+            "name": "row-62938513022393334246723519118105"
+          }
+        },
+        {
+          "type": "row",
+          "items": [
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Search for orders using any of the following criteria.",
+                  "id": "780892844795221923107804161546674",
+                  "codeContext": {
+                    "name": "text-780892844795221923107804161546674"
+                  },
+                  "cssClasses": [
+                    {
+                      "id": "body-short-01",
+                      "name": "body-short-01",
+                      "content": "/* body-short-01 */\nfont-family: 'IBM Plex Sans';\nfont-style: normal;\nfont-weight: 400;\nfont-size: 14px;\nline-height: 18px;\n/* identical to box height, or 129% */\nletter-spacing: 0.16px;\n\ncolor: #000000;\n\n"
+                    }
+                  ]
+                }
+              ],
+              "id": "260963889447773271825738202088496",
+              "codeContext": {
+                "name": "column-260963889447773271825738202088496"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-top-16",
+                  "name": "pad-top-16",
+                  "content": "padding-top: 16px;\n"
+                },
+                {
+                  "id": "pad-bottom-16",
+                  "name": "pad-bottom-16",
+                  "content": "padding-bottom: 16px"
+                },
+                {
+                  "id": "color-layer-01",
+                  "name": "color-layer-01",
+                  "content": "background-color: #ffffff"
+                }
+              ],
+              "mediumSpan": 5
+            },
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "button",
+                  "kind": "ghost",
+                  "text": "Customize search criteria",
+                  "id": "93489237106129459322582997689",
+                  "codeContext": {
+                    "name": "button-93489237106129459322582997689"
+                  },
+                  "cssClasses": []
+                }
+              ],
+              "id": "040780898580642388851640862797197",
+              "codeContext": {
+                "name": "column-260963889447773271825738202088496"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-bottom-16",
+                  "name": "pad-bottom-16",
+                  "content": "padding-bottom: 16px"
+                },
+                {
+                  "id": "color-layer-01",
+                  "name": "color-layer-01",
+                  "content": "background-color: #ffffff"
+                },
+                {
+                  "id": "align-right",
+                  "name": "align-right",
+                  "content": "display: flex; \njustify-content: flex-end"
+                }
+              ],
+              "mediumSpan": 3
+            }
+          ],
+          "id": "86914574637519663476589131429899",
+          "codeContext": {
+            "name": "row-86914574637519663476589131429899"
+          },
+          "cssClasses": []
+        },
+        {
+          "type": "row",
+          "items": [
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "combobox",
+                  "placeholder": "",
+                  "isMulti": false,
+                  "isInline": false,
+                  "selectionFeedback": "top-after-reopen",
+                  "direction": "bottom",
+                  "size": "sm",
+                  "label": "Document type",
+                  "helperText": "",
+                  "listItems": [
+                    {
+                      "text": "Sales order"
+                    },
+                    {
+                      "text": "Transfer order"
+                    }
+                  ],
+                  "id": "9987132105444798027233971332997875",
+                  "codeContext": {
+                    "name": "combobox-9987132105444798027233971332997875"
+                  },
+                  "cssClasses": []
+                }
+              ],
+              "id": "9241081815556227349594545800933",
+              "codeContext": {
+                "name": "column-9241081815556227349594545800933"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-bottom-24",
+                  "name": "pad-bottom-24",
+                  "content": "padding-bottom: 24px"
+                },
+                {
+                  "id": "pad-top-16",
+                  "name": "pad-top-16",
+                  "content": "padding-top: 16px;\n"
+                }
+              ],
+              "mediumSpan": 3
+            },
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "dropdown",
+                  "placeholder": "Order",
+                  "isMulti": false,
+                  "isInline": false,
+                  "selectionFeedback": "top-after-reopen",
+                  "direction": "bottom",
+                  "size": "sm",
+                  "label": "Search for",
+                  "helperText": "",
+                  "listItems": [
+                    {
+                      "text": "Order"
+                    },
+                    {
+                      "text": "Order line"
+                    },
+                    {
+                      "text": "Order release"
+                    }
+                  ],
+                  "id": "771123921101765522380110147053434",
+                  "codeContext": {
+                    "name": "dropdown-771123921101765522380110147053434"
+                  },
+                  "cssClasses": []
+                }
+              ],
+              "id": "71234444485012666122997012481513",
+              "codeContext": {
+                "name": "column-9241081815556227349594545800933"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-bottom-24",
+                  "name": "pad-bottom-24",
+                  "content": "padding-bottom: 24px"
+                },
+                {
+                  "id": "pad-top-16",
+                  "name": "pad-top-16",
+                  "content": "padding-top: 16px;\n"
+                }
+              ],
+              "mediumSpan": 3
+            }
+          ],
+          "id": "212384659800305855706093579498961",
+          "codeContext": {
+            "name": "row-212384659800305855706093579498961"
+          },
+          "cssClasses": [
+            {
+              "id": "color-layer-01",
+              "name": "color-layer-01",
+              "content": "background-color: #ffffff"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "items": [
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "combobox",
+                  "placeholder": "",
+                  "isMulti": false,
+                  "isInline": false,
+                  "selectionFeedback": "top-after-reopen",
+                  "direction": "bottom",
+                  "size": "sm",
+                  "label": "Enterprise",
+                  "helperText": "",
+                  "listItems": [
+                    {
+                      "text": "Aurora Corp"
+                    },
+                    {
+                      "text": "Sales 1"
+                    }
+                  ],
+                  "id": "0065494764387501468273417852661367",
+                  "codeContext": {
+                    "name": "combobox-9987132105444798027233971332997875"
+                  },
+                  "cssClasses": []
+                }
+              ],
+              "id": "7398960582731853916921699509738",
+              "codeContext": {
+                "name": "column-9241081815556227349594545800933"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-bottom-24",
+                  "name": "pad-bottom-24",
+                  "content": "padding-bottom: 24px"
+                }
+              ],
+              "mediumSpan": 3
+            },
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "text-input",
+                  "label": "Order number",
+                  "placeholder": "",
+                  "helperText": "",
+                  "inputType": "text",
+                  "id": "270704258453015740595652960478557",
+                  "codeContext": {
+                    "name": "text-input-177933868583217034928487387881295"
+                  },
+                  "cssClasses": [],
+                  "size": "sm"
+                }
+              ],
+              "id": "53911856282240498686709383880209",
+              "codeContext": {
+                "name": "column-9241081815556227349594545800933"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-bottom-24",
+                  "name": "pad-bottom-24",
+                  "content": "padding-bottom: 24px"
+                }
+              ],
+              "mediumSpan": 3
+            }
+          ],
+          "id": "62827464657813558901838473093513",
+          "codeContext": {
+            "name": "row-212384659800305855706093579498961"
+          },
+          "cssClasses": [
+            {
+              "id": "color-layer-01",
+              "name": "color-layer-01",
+              "content": "background-color: #ffffff"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "items": [
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "combobox",
+                  "placeholder": "",
+                  "isMulti": false,
+                  "isInline": false,
+                  "selectionFeedback": "top-after-reopen",
+                  "direction": "bottom",
+                  "size": "sm",
+                  "label": "Draft",
+                  "helperText": "",
+                  "listItems": [
+                    {
+                      "text": "Do not show drafts"
+                    },
+                    {
+                      "text": "Only show drafts"
+                    }
+                  ],
+                  "id": "9723293761604518191923349059846",
+                  "codeContext": {
+                    "name": "combobox-9987132105444798027233971332997875"
+                  },
+                  "cssClasses": []
+                }
+              ],
+              "id": "4598321982879174446330730352840366",
+              "codeContext": {
+                "name": "column-9241081815556227349594545800933"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-bottom-24",
+                  "name": "pad-bottom-24",
+                  "content": "padding-bottom: 24px"
+                }
+              ],
+              "mediumSpan": 3
+            },
+            {
+              "type": "column",
+              "items": [],
+              "id": "93975017676602866219004085599866",
+              "codeContext": {
+                "name": "column-9241081815556227349594545800933"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-bottom-24",
+                  "name": "pad-bottom-24",
+                  "content": "padding-bottom: 24px"
+                }
+              ],
+              "mediumSpan": 3
+            }
+          ],
+          "id": "134480049971562634959864404978536",
+          "codeContext": {
+            "name": "row-212384659800305855706093579498961"
+          },
+          "cssClasses": [
+            {
+              "id": "color-layer-01",
+              "name": "color-layer-01",
+              "content": "background-color: #ffffff"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "items": [
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "button",
+                  "kind": "primary",
+                  "text": "Search",
+                  "id": "7277362392720816895644847701434",
+                  "codeContext": {
+                    "name": "button-7277362392720816895644847701434"
+                  },
+                  "cssClasses": []
+                },
+                {
+                  "type": "button",
+                  "kind": "tertiary",
+                  "text": "Save search",
+                  "id": "80568446728332725015855432833971",
+                  "codeContext": {
+                    "name": "button-7277362392720816895644847701434"
+                  },
+                  "cssClasses": [
+                    {
+                      "id": "pad-left-16",
+                      "name": "pad-left-16",
+                      "content": "margin-left: 16px;"
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "kind": "ghost",
+                  "text": "Clear",
+                  "id": "408247883430522767974982664507511",
+                  "codeContext": {
+                    "name": "button-408247883430522767974982664507511"
+                  },
+                  "cssClasses": [
+                    {
+                      "id": "pad-left-16",
+                      "name": "pad-left-16",
+                      "content": "margin-left: 16px;"
+                    }
+                  ]
+                }
+              ],
+              "id": "60480993776328929216599968282562",
+              "codeContext": {
+                "name": "column-9241081815556227349594545800933"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-top-16",
+                  "name": "pad-top-16",
+                  "content": "padding-top: 16px;\n"
+                }
+              ],
+              "mediumSpan": 0
+            }
+          ],
+          "id": "987229585858725711354337379035284",
+          "codeContext": {
+            "name": "row-212384659800305855706093579498961"
+          },
+          "cssClasses": []
+        }
+      ],
+      "id": "4010478305696636721641109699392",
+      "codeContext": {
+        "name": "grid-4010478305696636721641109699392"
+      },
+      "cssClasses": [
+        {
+          "id": "pad-top-16",
+          "name": "pad-top-16",
+          "content": "padding-top: 16px;\n"
+        }
+      ]
+    }
+  ],
+  "id": 1
+}
