@@ -1,0 +1,240 @@
+{
+  "items": [
+    {
+      "type": "grid",
+      "outline": true,
+      "items": [
+        {
+          "type": "row",
+          "items": [
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "fragment name",
+                  "id": "037077106922376984596201250648926",
+                  "codeContext": {
+                    "name": "text-037077106922376984596201250648926"
+                  },
+                  "cssClasses": [
+                    {
+                      "id": "grey-background",
+                      "name": "grey-background",
+                      "content": "background-color:#efefef;"
+                    },
+                    {
+                      "id": "block",
+                      "name": "block",
+                      "content": "display: block;\npadding: 16px;"
+                    }
+                  ]
+                }
+              ],
+              "id": "170461213911847144546793225066295",
+              "codeContext": {
+                "name": "column-170461213911847144546793225066295"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-top-16",
+                  "name": "pad-top-16",
+                  "content": "padding-top:16px;"
+                },
+                {
+                  "id": "pad-bottom-16",
+                  "name": "pad-bottom-16",
+                  "content": "padding-bottom:16px;"
+                }
+              ],
+              "mediumSpan": 1,
+              "smallSpan": 2
+            },
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "fragment name",
+                  "id": "28213636582520052005602675854834",
+                  "codeContext": {
+                    "name": "text-28213636582520052005602675854834"
+                  },
+                  "cssClasses": [
+                    {
+                      "id": "grey-background",
+                      "name": "grey-background",
+                      "content": "background-color:#efefef;"
+                    },
+                    {
+                      "id": "block",
+                      "name": "block",
+                      "content": "display: block;\npadding: 16px;"
+                    }
+                  ]
+                }
+              ],
+              "id": "142066181606977704873391601320676",
+              "codeContext": {
+                "name": "column-142066181606977704873391601320676"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-top-16",
+                  "name": "pad-top-16",
+                  "content": "padding-top:16px;"
+                },
+                {
+                  "id": "pad-bottom-16",
+                  "name": "pad-bottom-16",
+                  "content": "padding-bottom:16px;"
+                }
+              ],
+              "mediumSpan": 1,
+              "smallSpan": 2
+            },
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "fragment name",
+                  "id": "479390164728927152272240936266312",
+                  "codeContext": {
+                    "name": "text-479390164728927152272240936266312"
+                  },
+                  "cssClasses": [
+                    {
+                      "id": "grey-background",
+                      "name": "grey-background",
+                      "content": "background-color:#efefef;"
+                    },
+                    {
+                      "id": "block",
+                      "name": "block",
+                      "content": "display: block;\npadding: 16px;"
+                    }
+                  ]
+                }
+              ],
+              "id": "7834757152679017601269822443832",
+              "codeContext": {
+                "name": "column-7834757152679017601269822443832"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-top-16",
+                  "name": "pad-top-16",
+                  "content": "padding-top:16px;"
+                },
+                {
+                  "id": "pad-bottom-16",
+                  "name": "pad-bottom-16",
+                  "content": "padding-bottom:16px;"
+                }
+              ],
+              "mediumSpan": 1,
+              "smallSpan": 2
+            },
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "fragment name",
+                  "id": "92044265771667249119215690514517",
+                  "codeContext": {
+                    "name": "text-92044265771667249119215690514517"
+                  },
+                  "cssClasses": [
+                    {
+                      "id": "grey-background",
+                      "name": "grey-background",
+                      "content": "background-color:#efefef;"
+                    },
+                    {
+                      "id": "block",
+                      "name": "block",
+                      "content": "display: block;\npadding: 16px;"
+                    }
+                  ]
+                }
+              ],
+              "id": "86288540939755025746199583698084",
+              "codeContext": {
+                "name": "column-86288540939755025746199583698084"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-top-16",
+                  "name": "pad-top-16",
+                  "content": "padding-top:16px;"
+                },
+                {
+                  "id": "pad-bottom-16",
+                  "name": "pad-bottom-16",
+                  "content": "padding-bottom:16px;"
+                }
+              ],
+              "mediumSpan": 1,
+              "smallSpan": 2
+            },
+            {
+              "type": "column",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "fragment name",
+                  "id": "0288217444757743479653265896192815",
+                  "codeContext": {
+                    "name": "text-0288217444757743479653265896192815"
+                  },
+                  "cssClasses": [
+                    {
+                      "id": "grey-background",
+                      "name": "grey-background",
+                      "content": "background-color:#efefef;"
+                    },
+                    {
+                      "id": "block",
+                      "name": "block",
+                      "content": "display: block;\npadding: 16px;"
+                    }
+                  ]
+                }
+              ],
+              "id": "99132981238435596652955225789428",
+              "codeContext": {
+                "name": "column-99132981238435596652955225789428"
+              },
+              "cssClasses": [
+                {
+                  "id": "pad-top-16",
+                  "name": "pad-top-16",
+                  "content": "padding-top:16px;"
+                },
+                {
+                  "id": "pad-bottom-16",
+                  "name": "pad-bottom-16",
+                  "content": "padding-bottom:16px;"
+                }
+              ],
+              "mediumSpan": 1,
+              "smallSpan": 2
+            }
+          ],
+          "id": "88774573444625675219473568784967",
+          "codeContext": {
+            "name": "row-88774573444625675219473568784967"
+          },
+          "cssClasses": []
+        }
+      ],
+      "id": "90457289227327083453612514162461",
+      "codeContext": {
+        "name": "grid-90457289227327083453612514162461"
+      }
+    }
+  ],
+  "id": 1
+}
